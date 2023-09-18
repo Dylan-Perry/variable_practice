@@ -5,5 +5,5 @@ interest = "video games"
 
 # integer declarations
 
-age = "31"
-nostrils = "2"
+age = 31
+nostrils = 2

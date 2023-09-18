@@ -18,3 +18,12 @@ quarter = 0.25
 is_boolean = true
 is_fun = true
 is_easy = false
+
+# string variable reassignments
+
+name = "Not Dylan"
+interest = "Fly Fishing"
+
+puts name + " is " + interest
+puts is_boolean
+puts nostrils

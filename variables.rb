@@ -12,3 +12,9 @@ nostrils = 2
 
 bank_balance = 3.50
 quarter = 0.25
+
+# boolean declarations
+
+is_boolean = true
+is_fun = true
+is_easy = false
